@@ -1,2 +1,1 @@
-# Chaonx
- 时钟 | 倒计时 | Pyside6
+**Chaonx** - 时钟 & 倒计时小工具
